@@ -30,7 +30,6 @@
 ### Non-Governmental Org Data
 
 * [The World Bank](http://data.worldbank.org/topic/private-sector) - business regulation measures, company-level data in emerging markets, household consumption patterns, World Development Indicators, World Bank finances
-* ^[Pew Research Center's Internet Project](http://www.pewinternet.org/datasets/pages/3/)
 
 ### Academic Data
 
@@ -49,5 +48,3 @@
 
 * reddit [r/datasets](http://www.reddit.com/r/datasets/)
 * [Open Data - Stack Exchange](http://opendata.stackexchange.com/) (discussion)
-
-^ _license is not truly open, involves some limitations_
