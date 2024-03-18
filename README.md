@@ -41,7 +41,7 @@ _Definition by the [Open Knowledge Foundation](https://okfn.org/opendata/)_
 
 ### Truly Random Data
 
-* [200,000+ Jeopardy! Questions in a JSON file](http://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)
+* [200,000+ Jeopardy! Questions in a JSON file](http://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/) : [Download data](https://drive.google.com/file/d/0BwT5wj_P7BKXb2hfM3d2RHU1ckE/view?usp=sharing)
 * [10,000 annotated images of cats](http://137.189.35.203/WebUI/CatDatabase/catData.html)
 
 ## Open Data Resources
