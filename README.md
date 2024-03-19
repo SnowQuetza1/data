@@ -48,5 +48,3 @@ _Definition by the [Open Knowledge Foundation](https://okfn.org/opendata/)_
 
 * reddit [r/datasets](http://www.reddit.com/r/datasets/)
 * [Open Data - Stack Exchange](http://opendata.stackexchange.com/) (discussion)
-
-https://mega.nz/folder/py8nHZxa#zcYt6UnglUej1Hh5qZsP6A
