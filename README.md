@@ -33,7 +33,7 @@ _Definition by the [Open Knowledge Foundation](https://okfn.org/opendata/)_
 
 ### Academic Data
 
-[Inter-university Consortium for Political and Social Research Data Portal](http://www.icpsr.umich.edu/icpsrweb/ICPSR/access/subject.jsp)
+[Inter-university Consortium for Political and Social Research Data Portal](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html)
 
 * [Surveys of Economic Attitudes and Behavior](http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies?classification=ICPSR.IV.B.)
 * [Continuing Series of Consumer Surveys](http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies?classification=ICPSR.IV.A.)
@@ -48,3 +48,5 @@ _Definition by the [Open Knowledge Foundation](https://okfn.org/opendata/)_
 
 * reddit [r/datasets](http://www.reddit.com/r/datasets/)
 * [Open Data - Stack Exchange](http://opendata.stackexchange.com/) (discussion)
+
+https://mega.nz/folder/py8nHZxa#zcYt6UnglUej1Hh5qZsP6A
