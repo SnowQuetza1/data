@@ -23,6 +23,7 @@ _Definition by the [Open Knowledge Foundation](https://okfn.org/opendata/)_
 [Compendium of Governmental Open Data Sources](http://datacatalogs.org/)
 
 * [European data](https://data.europa.eu/en)
+* [data.gouv (FR)](https://www.data.gouv.fr/fr/)
 * [Data.gov (USA)](http://www.data.gov/)
 * [Africa Open Data](http://africaopendata.org/dataset)
 * [US Census](http://www.census.gov/data/developers/data-sets.html) - Population Estimates and Projections, Nonemployer Statistics and County Business Patterns, Economic Indicators Time Series, more.
