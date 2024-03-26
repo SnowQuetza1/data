@@ -28,6 +28,7 @@ _Definition by the [Open Knowledge Foundation](https://okfn.org/opendata/)_
 * [Africa Open Data](http://africaopendata.org/dataset)
 * [US Census](http://www.census.gov/data/developers/data-sets.html) - Population Estimates and Projections, Nonemployer Statistics and County Business Patterns, Economic Indicators Time Series, more.
 * [Dataportal.asia](https://dataportal.asia/home)
+* [cityofnewyork](https://opendata.cityofnewyork.us/data/)
 
 ### Non-Governmental Org Data
 
