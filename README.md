@@ -51,3 +51,4 @@ _Definition by the [Open Knowledge Foundation](https://okfn.org/opendata/)_
 
 * reddit [r/datasets](http://www.reddit.com/r/datasets/)
 * [Open Data - Stack Exchange](http://opendata.stackexchange.com/) (discussion)
+* [opendatabarometer](https://opendatabarometer.org/?_year=2017&indicator=ODB)
