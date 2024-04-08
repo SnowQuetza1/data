@@ -30,6 +30,7 @@ _Definition by the [Open Knowledge Foundation](https://okfn.org/opendata/)_
 * [Dataportal.asia](https://dataportal.asia/home)
 * [cityofnewyork](https://opendata.cityofnewyork.us/data/)
 * [OpenDataNI (UK)](https://www.opendatani.gov.uk/)
+* [Australian Data Archive](https://ada.edu.au/)
 
 ### Non-Governmental Org Data
 
